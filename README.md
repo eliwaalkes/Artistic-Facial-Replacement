@@ -7,11 +7,8 @@ dependencies, instructions for home implementation will be added later.
 
 ## Examples
 
-![GitHub Logo](eg1.png)
-Format: ![Alt Text](url)
+![GitHub Logo](eg3.png)
 
 ![GitHub Logo](eg2.png)
-Format: ![Alt Text](url)
 
-![GitHub Logo](eg3.png)
-Format: ![Alt Text](url)
+![GitHub Logo](eg1.png)
